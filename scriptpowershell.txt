@@ -1,0 +1,1 @@
+SqlPackage.exe /a:Extract /ssn:10.0.4.4 /sdn:TakedaAI_DWH_VALIDATION_POC /tf:'D:\dbBCK\takda.dacpac' /su:'Harinath_User' /sp:'Harikeerthi@3'
